@@ -1,5 +1,5 @@
 # CSCI3308_Lab3_Group2
-Trevor Hall (love my THHAD homies)
+Project Team Members: 
 This is just so there is something here
 
 Test
@@ -12,6 +12,7 @@ Aidan Reese (T)
 Henry Meyerson
 Trevor Hall
 
+Corrected the Changes made by Trevor
 
 Corrected Changes made by Aidan
 From Branch:
